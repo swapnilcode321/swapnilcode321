@@ -1,6 +1,7 @@
 # 💫 About Me:
-I am currently Working on personal projects and improving<br> my skill through internships <br><br>I am currently building real-world project to strengthen my <br>fundamentals 
+I am a highly motivated front-end developer and engineering student with a strong interest in building modern, scalable, and user-centric web applications. I have hands-on experience with HTML, CSS, JavaScript, React, and Tailwind CSS, and I enjoy turning ideas into real products through clean and efficient code.
 
+I focus deeply on JavaScript fundamentals, problem-solving, and real-world projects to strengthen my understanding of how things work behind the scenes. I am actively preparing for front-end internships and aim to become a full-stack developer by continuously learning, building projects, and improving my communication and technical skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnilkamble ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swapnilkamble4848@gmail.com) 
